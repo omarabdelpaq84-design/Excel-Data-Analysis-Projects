@@ -6,12 +6,6 @@ This repository contains a collection of real-world data analysis projects using
 
 ## 🚀 Projects
 
-### 📊 Amazon Sales Analysis
-- Built interactive dashboard to analyze sales performance
-- Identified top products and revenue trends
-
----
-
 ### 📈 HR Analytics
 - Analyzed employee data and attrition rates
 - Created HR dashboard for insights
